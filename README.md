@@ -1,1 +1,2 @@
 # Political-Manifesto-Analysis
+A text mining and Natural Language Processing project developed as part of a university course. The project uses R to analyse a collection of English-language political manifestos, including text preprocessing, stemming, word frequency analysis, sentiment analysis using Bing, NRC and AFINN lexicons, and word cloud visualisation. Topic modelling is performed using Latent Dirichlet Allocation (LDA) to identify the main themes present in the documents.
